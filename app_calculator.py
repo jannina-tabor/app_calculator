@@ -68,3 +68,5 @@ def calculate_numbers(operation, x, y):
     elif operation == 4: 
         return divide(x, y)
 
+def run_calculator():
+    
