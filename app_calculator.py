@@ -1,6 +1,7 @@
 # Psuedocode
 
-# Define a function for Addition operation
+# Set x as the first inputted number and y as the second inputted number
+#Define a function for Addition operation
 # Define a function for Subtraction operation
 # Define a function for the multiplication operation
 # Define a function for the division operation
