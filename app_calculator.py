@@ -1,5 +1,6 @@
 # Psuedocode
 
+# Install a pyinstaller to run the application in an executable file
 # Set x as the first inputted number and y as the second inputted number
 #Define a function for Addition operation
 # Define a function for Subtraction operation
