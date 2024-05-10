@@ -93,3 +93,6 @@ def run_calculator():
         if again_or_not != 'yes':
             print("Thank you!")
             break 
+
+if __name__ == "__main__":
+    run_calculator()
