@@ -78,3 +78,6 @@ def run_calculator():
 
             if operation < 1 or operation > 4: 
                 print("Invalid operation. Please choose again. Thank you.")
+                continue
+
+            num1, num2 = user_numbers()
