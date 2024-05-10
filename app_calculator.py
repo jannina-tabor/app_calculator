@@ -86,7 +86,7 @@ def run_calculator():
             print("Here is the result: ", result)
         
         except ValueError as ve:
-            print(f"Error: (ve)")
+            print(f"Error: You cannot divide by zero! ")
             continue
 
         again_or_not = input("Do you want to try again? (yes/no): ").lower()
