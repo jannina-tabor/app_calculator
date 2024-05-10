@@ -86,3 +86,5 @@ def run_calculator():
             print("Here is the result: ", result)
         
         except ValueError as ve:
+            print(f"Error: (ve)")
+            continue
