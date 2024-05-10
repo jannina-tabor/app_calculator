@@ -29,3 +29,6 @@
         # Ask the user if they want to try again
             # If no, display "Thank you!" and exit the program
             # if yes, loop back from the start.
+
+def add(x,y): 
+    return x + y
