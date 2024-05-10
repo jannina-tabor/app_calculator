@@ -81,3 +81,6 @@ def run_calculator():
                 continue
 
             num1, num2 = user_numbers()
+
+            result =  calculate_numbers(operation, num1, num2)
+            print("Here is the result: ", result)
