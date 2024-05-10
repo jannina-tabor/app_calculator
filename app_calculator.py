@@ -58,3 +58,5 @@ def user_numbers():
     num2 = float(input("Please enter a second number: "))
     return num1, num2
 
+def calculate_numbers(operation, x, y):
+    
