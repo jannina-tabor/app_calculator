@@ -52,3 +52,6 @@ def user_operation():
     print("3. Multiplication")
     print("4. Division")
     return int(input("Enter your chosen operation. Please choose 1 to 4: "))
+
+def user_numbers():
+    
