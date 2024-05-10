@@ -84,3 +84,5 @@ def run_calculator():
 
             result =  calculate_numbers(operation, num1, num2)
             print("Here is the result: ", result)
+        
+        except ValueError as ve:
