@@ -88,3 +88,6 @@ def run_calculator():
         except ValueError as ve:
             print(f"Error: (ve)")
             continue
+
+        again_or_not = input("Do you want to try again? (yes/no): ").lower()
+        
