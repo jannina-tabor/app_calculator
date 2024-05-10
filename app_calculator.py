@@ -51,4 +51,4 @@ def user_operation():
     print("2. Subtraction")
     print("3. Multiplication")
     print("4. Division")
-    return int(input("Enter your chosen operation (1-4): "))
+    return int(input("Enter your chosen operation. Please choose 1 to 4: "))
