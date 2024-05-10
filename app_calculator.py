@@ -59,4 +59,12 @@ def user_numbers():
     return num1, num2
 
 def calculate_numbers(operation, x, y):
-    
+    if operation == 1:
+        return add(x, y)
+    elif operation == 2:
+        return subtract(x, y)
+    elif operation ==  3: 
+        return multiply(x, y)
+    elif operation == 4: 
+        return divide(x, y)
+
