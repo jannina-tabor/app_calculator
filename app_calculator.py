@@ -90,4 +90,6 @@ def run_calculator():
             continue
 
         again_or_not = input("Do you want to try again? (yes/no): ").lower()
-        
+        if again_or_not != 'yes':
+            print("Thank you!")
+            break 
