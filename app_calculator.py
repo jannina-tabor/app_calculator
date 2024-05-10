@@ -54,4 +54,4 @@ def user_operation():
     return int(input("Enter your chosen operation. Please choose 1 to 4: "))
 
 def user_numbers():
-    
+    num1 = float(input("Please enter a first number: "))
