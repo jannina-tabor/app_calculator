@@ -73,4 +73,7 @@ def run_calculator():
     print("This application supports the basic arithmetic operations.")
 
     while True: 
-        
+        try: 
+            operation = user_operation()
+
+            
