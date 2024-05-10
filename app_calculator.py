@@ -56,3 +56,5 @@ def user_operation():
 def user_numbers():
     num1 = float(input("Please enter a first number: "))
     num2 = float(input("Please enter a second number: "))
+    return num1, num2
+
