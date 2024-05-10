@@ -76,4 +76,5 @@ def run_calculator():
         try: 
             operation = user_operation()
 
-            
+            if operation < 1 or operation > 4: 
+                print("Invalid operation. Please choose again. Thank you.")
