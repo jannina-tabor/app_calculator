@@ -46,4 +46,4 @@ def divide(x, y):
     return x / y
 
 def user_operation():
-    
+    print("\nChoose an operation:")
