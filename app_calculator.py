@@ -69,4 +69,7 @@ def calculate_numbers(operation, x, y):
         return divide(x, y)
 
 def run_calculator():
+    print("Welcome to the Simple App Calculator!")
+    print("This application supports the basic arithmetic operations.")
+
     
