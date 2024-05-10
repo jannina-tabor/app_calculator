@@ -72,4 +72,5 @@ def run_calculator():
     print("Welcome to the Simple App Calculator!")
     print("This application supports the basic arithmetic operations.")
 
-    
+    while True: 
+        
