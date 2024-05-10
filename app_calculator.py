@@ -47,3 +47,4 @@ def divide(x, y):
 
 def user_operation():
     print("\nChoose an operation:")
+    print("1. Addition")
