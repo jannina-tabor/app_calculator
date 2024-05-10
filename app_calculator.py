@@ -45,3 +45,5 @@ def divide(x, y):
         raise ValueError("You cannot divide by zero.")
     return x / y
 
+def user_operation():
+    
