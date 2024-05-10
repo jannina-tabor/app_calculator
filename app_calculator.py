@@ -31,5 +31,8 @@
             # If no, display "Thank you!" and exit the program
             # if yes, loop back from the start.
 
-def add(x,y): 
+def add(x, y): 
     return x + y
+
+def subtract(x, y):
+    return x - y
